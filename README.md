@@ -1,4 +1,4 @@
-# MERN-WK2
+# MERN-WK2 - Building a RESTful API using Express.js that implements standard CRUD operations, proper routing, middleware implementation, and error handling.
 ## Getting Started
 
 ### Prerequisites
