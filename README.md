@@ -1,35 +1,35 @@
 # MERN-WK2
 # Task 1: Express.js Setup
 Initialize a new Node.js project <BR>
-Install Express.js and required dependencies
-Create a basic Express server that listens on port 3000
-Implement a "Hello World" route at the root endpoint
+Install Express.js and required dependencies <BR>
+Create a basic Express server that listens on port 3000 <BR>
+Implement a "Hello World" route at the root endpoint <BR>
 # Task 2: RESTful API Routes
-Create a resource called products with the following fields:
-id (unique identifier)
-name (string)
-description (string)
-price (number)
-category (string)
-inStock (boolean)
-Implement the following RESTful routes:
-GET /api/products: List all products
-GET /api/products/:id: Get a specific product by ID
-POST /api/products: Create a new product
-PUT /api/products/:id: Update an existing product
-DELETE /api/products/:id: Delete a product
+Create a resource called products with the following fields: <BR>
+id (unique identifier) <BR>
+name (string)<BR>
+description (string)<BR>
+price (number)<BR>
+category (string)<BR>
+inStock (boolean)<BR>
+Implement the following RESTful routes:<BR>
+GET /api/products: List all products<BR>
+GET /api/products/:id: Get a specific product by ID<BR>
+POST /api/products: Create a new product<BR>
+PUT /api/products/:id: Update an existing product<BR>
+DELETE /api/products/:id: Delete a product<BR>
 # Task 3: Middleware Implementation
-Create a custom logger middleware that logs the request method, URL, and timestamp
-Implement a middleware to parse JSON request bodies
-Create an authentication middleware that checks for an API key in the request headers
-Add validation middleware for the product creation and update routes
+Create a custom logger middleware that logs the request method, URL, and timestamp<BR>
+Implement a middleware to parse JSON request bodies<BR>
+Create an authentication middleware that checks for an API key in the request headers<BR>
+Add validation middleware for the product creation and update routes<BR>
 # Task 4: Error Handling
-Implement global error handling middleware
-Create custom error classes for different types of errors (e.g., NotFoundError, ValidationError)
-Add proper error responses with appropriate HTTP status codes
-Handle asynchronous errors using try/catch blocks or a wrapper function
+Implement global error handling middleware<BR>
+Create custom error classes for different types of errors (e.g., NotFoundError, ValidationError)<BR>
+Add proper error responses with appropriate HTTP status codes<BR>
+Handle asynchronous errors using try/catch blocks or a wrapper function<BR>
 # Task 5: Advanced Features
-Implement query parameters for filtering products by category
-Add pagination support for the product listing endpoint
-Create a search endpoint that allows searching products by name
-Implement route for getting product statistics (e.g., count by category)
+Implement query parameters for filtering products by category<BR>
+Add pagination support for the product listing endpoint<BR>
+Create a search endpoint that allows searching products by name<BR>
+Implement route for getting product statistics (e.g., count by category)<BR>
