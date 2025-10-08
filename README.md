@@ -10,6 +10,12 @@
 ### Installation
 
 Clone the repository the repo
+# Install dependencies:
+npm install
+Create a .env file
+## Run the Server :node server.js
+The server will start at:
+http://localhost:3000
 
 # Task 1: Express.js Setup
 Initialize a new Node.js project <BR>
