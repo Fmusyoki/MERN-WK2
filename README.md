@@ -1,6 +1,6 @@
 # MERN-WK2
 # Task 1: Express.js Setup
-Initialize a new Node.js project
+Initialize a new Node.js project <BR>
 Install Express.js and required dependencies
 Create a basic Express server that listens on port 3000
 Implement a "Hello World" route at the root endpoint
