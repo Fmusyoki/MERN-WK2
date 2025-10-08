@@ -1,4 +1,19 @@
 # MERN-WK2
+## Getting Started
+
+### Prerequisites
+- Node.js v18 or higher  
+- npm (comes with Node.js)  
+- Postman, Thunder Client, or cURL (for testing endpoints)
+
+
+### Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/<your-username>/<your-repo-name>.git
+cd <your-repo-name>
+
 # Task 1: Express.js Setup
 Initialize a new Node.js project <BR>
 Install Express.js and required dependencies <BR>
