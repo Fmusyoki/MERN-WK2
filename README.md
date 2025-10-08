@@ -11,7 +11,9 @@
 
 Clone the repository the repo
 # Install dependencies:
-npm install
+npm install <br>
+install Express:<br>
+npm install express<br>
 Create a .env file
 ## Run the Server :node server.js
 The server will start at:
