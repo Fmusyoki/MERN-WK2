@@ -33,3 +33,7 @@ Implement query parameters for filtering products by category<BR>
 Add pagination support for the product listing endpoint<BR>
 Create a search endpoint that allows searching products by name<BR>
 Implement route for getting product statistics (e.g., count by category)<BR>
+# SCREENSHOTS OF SUCCESSFULL QUERIES
+<img width="1911" height="1018" alt="image" src="https://github.com/user-attachments/assets/30321bda-0d9a-4a6e-8e4c-9289bc43f96b" />
+<img width="1917" height="1019" alt="image" src="https://github.com/user-attachments/assets/591febf9-4f05-4096-b4ad-f21e081bd372" />
+
